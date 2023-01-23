@@ -1,1 +1,1 @@
-# Landingpage-tutorial
+# Landing page tutorial
